@@ -1,0 +1,8 @@
+{
+  "requiredKeys": [
+    "name", "stage"
+  ],
+  "skip": [
+    "skip"
+  ]
+}
